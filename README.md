@@ -13,3 +13,6 @@ In this tutorial, I will show you how to perform Unsupervised Machine learning w
 4. How to perform Elbow method to determine the K value to be used
 5. How to perform clustering with using Scikit-Learn library
 6. How to evaluate the results of the clustering
+
+Youtube video:
+https://www.youtube.com/watch?v=xJ2sP7vpylg
